@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Website Launch Skills</title>
+  <desc id="desc">Minimal banner for a collection of website launch readiness skills.</desc>
+  <rect width="1200" height="260" rx="20" fill="#101827"/>
+  <rect x="38" y="38" width="184" height="184" rx="18" fill="#123b39" stroke="#36d399" stroke-width="3"/>
+  <rect x="72" y="70" width="116" height="120" rx="12" fill="#101827" stroke="#36d399" stroke-width="6"/>
+  <path d="M72 101h116" fill="none" stroke="#36d399" stroke-width="6"/>
+  <circle cx="86" cy="86" r="3" fill="#36d399"/>
+  <circle cx="98" cy="86" r="3" fill="#36d399"/>
+  <circle cx="110" cy="86" r="3" fill="#36d399"/>
+  <circle cx="130" cy="145" r="31" fill="none" stroke="#36d399" stroke-width="5"/>
+  <path d="M99 145h62M130 114c-11 9-16 20-16 31s5 22 16 31M130 114c11 9 16 20 16 31s-5 22-16 31M105 130c7 4 15 6 25 6s18-2 25-6M105 160c7-4 15-6 25-6s18 2 25 6" fill="none" stroke="#36d399" stroke-width="4" stroke-linecap="round"/>
+  <text x="270" y="122" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="700">Website Launch Skills</text>
+  <text x="274" y="170" fill="#9fb3c8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">Evidence-backed checks for safer releases</text>
+</svg>

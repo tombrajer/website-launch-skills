@@ -1,7 +1,7 @@
 # Website Launch Skills
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Website Launch Skills" width="900">
+    <img src="./assets/banner-web.svg" alt="Website Launch Skills" width="900">
 </p>
 
 Focused skills for safer, evidence-backed website launches.
