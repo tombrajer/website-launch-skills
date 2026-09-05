@@ -1,0 +1,3 @@
+interface:
+  display_name: "Security Launch Gate"
+  short_description: "Run focused pre-launch security checks"

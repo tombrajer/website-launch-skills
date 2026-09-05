@@ -1,0 +1,3 @@
+interface:
+  display_name: "Content Trust Audit"
+  short_description: "Audit public content and trust signals"

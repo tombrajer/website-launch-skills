@@ -1,0 +1,4 @@
+interface:
+  display_name: "AdSense Readiness Audit"
+  short_description: "Audit sites against official AdSense criteria"
+  default_prompt: "Use $adsense-readiness-audit to audit this site for Google AdSense approval readiness."

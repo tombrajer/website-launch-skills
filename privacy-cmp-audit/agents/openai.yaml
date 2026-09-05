@@ -1,0 +1,3 @@
+interface:
+  display_name: "Privacy CMP Audit"
+  short_description: "Audit privacy and consent behavior"

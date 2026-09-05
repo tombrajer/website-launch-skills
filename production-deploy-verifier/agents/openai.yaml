@@ -1,0 +1,3 @@
+interface:
+  display_name: "Production Deploy Verifier"
+  short_description: "Verify deployment and live smoke tests"

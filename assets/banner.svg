@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Website Launch Skills</title>
+  <desc id="desc">Minimal banner for a collection of website launch readiness skills.</desc>
+  <rect width="1200" height="260" rx="20" fill="#101827"/>
+  <rect x="38" y="38" width="184" height="184" rx="18" fill="#123b39" stroke="#36d399" stroke-width="3"/>
+  <path d="M86 84h88v38H86zM86 142h52v34H86zM152 142h22v34h-22z" fill="#36d399"/>
+  <path d="M86 84l22 22 22-22 22 22 22-22" fill="none" stroke="#101827" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="270" y="122" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="700">Website Launch Skills</text>
+  <text x="274" y="170" fill="#9fb3c8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">Evidence-backed checks for safer releases</text>
+</svg>

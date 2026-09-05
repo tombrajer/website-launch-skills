@@ -1,0 +1,6 @@
+interface:
+  display_name: "Website Pre-Launch Audit"
+  short_description: "Strict security and production-readiness launch gate"
+  default_prompt: "Audit this web application for production launch readiness and return a GO, CONDITIONAL GO, or NO-GO report with evidence."
+policy:
+  allow_implicit_invocation: true
