@@ -1,0 +1,23 @@
+{
+  "name": "website-launch-skills",
+  "metadata": {
+    "description": "Evidence-backed skills for safer website launches."
+  },
+  "owner": {
+    "name": "TomixsCZ",
+    "url": "https://github.com/tombrajer"
+  },
+  "plugins": [
+    {
+      "name": "website-launch-skills",
+      "source": "./",
+      "description": "Evidence-backed skills for safer website launches.",
+      "version": "1.0.0",
+      "author": {
+        "name": "TomixsCZ",
+        "url": "https://github.com/tombrajer"
+      },
+      "repository": "https://github.com/tombrajer/website-launch-skills"
+    }
+  ]
+}
